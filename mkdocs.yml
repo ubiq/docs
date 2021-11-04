@@ -1,0 +1,5 @@
+site_name: Ubiq Docs
+theme:
+  name: material
+  palette:
+    primary: green
