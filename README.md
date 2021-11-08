@@ -6,7 +6,9 @@
 
 URL: https://docs.ubiqsmart.com/
 
-Technical docs but managed through Git. May have non-technical resources as well but [Odin](https://odin.ubiqsmart.com/) the prefered location. Auto-published through continuous integration GitHub Actions.
+* Technical documention managed through Git.
+* May have non-technical resources as well but [Odin](https://odin.ubiqsmart.com/) is the prefered location.
+* Auto-published through continuous integration GitHub Actions.
 
 Uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). Refer to the [Installation guide](https://squidfunk.github.io/mkdocs-material/getting-started/) for more information.
 
