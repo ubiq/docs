@@ -2,6 +2,22 @@
 
 A portal to the Ubiq ecosystem
 
+## Tools and Resources
+
+* [Odin](https://odin.ubiqsmart.com/) - Odin is an extensive resource focused on the Ubiq network. It is comprised of materials including historical data, overviews of network operation, guides, and information for both users and developers.
+
+## Infrastructure
+
+* [Network Stats](https://stats.ubiqscan.io/)
+* [Redshift](https://redshift.ubiqsmart.com/) - Redshift Bridge. There are further details in the [announcement post](https://blog.ubiqsmart.com/announcing-redshift-dd48279eca16).
+* [Sourcify](https://sourcify.dev/) - Sourcify is a decentralized automated contract verification service, which makes publishing and verifying source code easy.
+* [Ubiqscan](https://ubiqscan.io/) - Block explorer.
+
+## DeFi
+
+* [Enmaku](https://enmaku.io/) - Non-custodial anonymous transactions on Ubiq.
+* [Shinobi](https://shinobi.ubiq.ninja/) - Decentralized exchange built on Ubiq.
+
 ## NFT
 
 * [Token.Gallery](https://token.gallery/) - Token.gallery is an NFT marketplace that supports and showcases creative work. You can create ("mint"), sell, buy, and collect NFTs that live on the blockchain.
@@ -17,8 +33,17 @@ Other:
 
 * [NFT Utilities](https://ubiq.github.io/nftutils/) - Some extra Ubiq NFT Utilities.
 
+## Community Engagement
+
+* [Swordy Bot](https://swordybot.com/) - Discord Roles based on token and NFT ownership.
+
+## Prediction Markets
+
+* [reality.eth](https://realityeth.github.io/#!/network/8) - Crowd-sourced smart contract oracle dapp.
+
 ## Games
 
+* [GeoCoin](https://geocoin.cash/) - Real world scavenger hunt rewarded with cryptocurrency.
 * [GUStakes](https://gustakes.gg/) - Stake UBQ on Gods Unchained matchups.
 
 ## Wallets
@@ -28,6 +53,7 @@ Other:
 * [MyEtherWallet](https://www.myetherwallet.com/)
 * [Pyrus](https://pyrus.ubiqsmart.com/)
 * [Sparrow](https://ubiqsmart.com/sparrow) - Ubiq fork of MetaMask. Native Ubiq support and support for hardware wallet Ledger and Trezor Ubiq HD paths.
+* [Twine](https://twine.ubiqsmart.com/) - Multisignature wallet. Allows multiple parties to agree on transactions before execution.
 
 Hardware wallets with Ubiq support:
 
