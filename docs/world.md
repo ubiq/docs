@@ -17,6 +17,7 @@ A portal to the Ubiq ecosystem
 
 * [Enmaku](https://enmaku.io/) - Non-custodial anonymous transactions on Ubiq.
 * [Shinobi](https://shinobi.ubiq.ninja/) - Decentralized exchange built on Ubiq.
+* [Tentacle Finance](https://tentacle.finance/) - Fair launched, DAO/Defi project built on Ubiq.
 
 ## NFT
 
