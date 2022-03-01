@@ -12,10 +12,12 @@ A portal to the Ubiq ecosystem
 * [Redshift](https://redshift.ubiqsmart.com/) - Redshift Bridge. There are further details in the [announcement post](https://blog.ubiqsmart.com/announcing-redshift-dd48279eca16).
 * [Sourcify](https://sourcify.dev/) - Sourcify is a decentralized automated contract verification service, which makes publishing and verifying source code easy.
 * [Ubiqscan](https://ubiqscan.io/) - Block explorer.
+* [Watch The Burn](https://watchtheburn.ubiqsmart.com/) - Watch The Burn: EIP-1559 Real-Time UBQ Burn Visualization for Ubiq
 
 ## DeFi
 
 * [Enmaku](https://enmaku.io/) - Non-custodial anonymous transactions on Ubiq.
+* [Nomics - Shinobi](https://nomics.com/exchanges/shinobi) - Shinobi on Nomics assets and markets site.
 * [Shinobi](https://shinobi.ubiq.ninja/) - Decentralized exchange built on Ubiq.
 * [Tentacle Finance](https://tentacle.finance/) - Fair launched, DAO/Defi project built on Ubiq.
 
@@ -51,7 +53,6 @@ Other:
 
 * [MetaMask](https://metamask.io/)
 * [MyCrypto](https://mycrypto.com/)
-* [MyEtherWallet](https://www.myetherwallet.com/)
 * [Pyrus](https://pyrus.ubiqsmart.com/)
 * [Sparrow](https://ubiqsmart.com/sparrow) - Ubiq fork of MetaMask. Native Ubiq support and support for hardware wallet Ledger and Trezor Ubiq HD paths.
 * [Twine](https://twine.ubiqsmart.com/) - Multisignature wallet. Allows multiple parties to agree on transactions before execution.
