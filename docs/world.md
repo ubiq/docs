@@ -29,7 +29,7 @@ A portal to the Ubiq ecosystem
 Collections:
 
 - [CHIMP](https://chimp.ubiqsmart.com/) - ERC721 NFT created pixel art CHIMP: The On-Chain Image Manipulation Program. There are further details in the [announcement post](https://blog.ubiqsmart.com/announcing-chimp-49eb70f30991).
-- [Cryptsters](https://cryptsters.ubiqsmart.com/) - Cryptsters is an amazingly crafted and stylistically curated NFT collection exclusively on Ubiq. 5 body types, hundreds of traits including special 1 of 1's, licensed under CC0.
+- [Cryptsters](https://cryptsters.ubiqsmart.com/) - Cryptsters is an amazingly crafted and stylistically curated NFT collection exclusively on Ubiq. 5 body types, hundreds of traits including special 1 of 1's, licensed under CC0. There are further details in the [announcement post](https://blog.ubiqsmart.com/announcing-cryptsters-2bab824c9bcd).
 - [GB89](https://ubiq.github.io/gb89/) - ERC721 NFT which can draw any function, 100% on chain. There are further details in the [announcement post](https://blog.ubiqsmart.com/announcing-gb89-fca1a76aa892).
 - [nCeption](https://nception.ubiqsmart.com/) - Randomized generated numbers stored on chain. The first wide-scale ERC721 launch for Ubiq. There are further details in the [announcement post](https://blog.ubiqsmart.com/announcing-nception-ba2eb5fc952).
 - [Poster Shop](https://poster.ubiqsmart.com/) - Ubiq Poster Shop is a NFT store for physically redeemable posters. There are further details in the [announcement post](https://blog.ubiqsmart.com/ubiq-launches-its-first-redeemable-nft-39e70bf1084).
